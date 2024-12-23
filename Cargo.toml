@@ -1,0 +1,3 @@
+[workspace]
+members = [ "dump", "tree"]
+resolver = "2"

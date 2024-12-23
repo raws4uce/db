@@ -1,0 +1,8 @@
+[package]
+name = "tree"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dump = { path = "../dump" }
+anyhow = "1.0.94"
